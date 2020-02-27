@@ -9,8 +9,8 @@ class School
     roster[grade] << student_name
   end
   
-  def method(grade)
-    
+  def method(student_grade)
+    roster[student_grade]
   end
    
   
