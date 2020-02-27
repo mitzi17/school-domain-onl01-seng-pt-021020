@@ -24,4 +24,4 @@ class School
     sorted
   end
 end
-  end
+
